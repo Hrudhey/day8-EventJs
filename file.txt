@@ -1,0 +1,6 @@
+Events are occurrences 
+like:- onchange: an html element has changed
+
+Event
+* form - on submit
+task 2 - on click the image should hide & on double click it should show (Using properties set and get attributes);
